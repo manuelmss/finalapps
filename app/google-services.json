@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230378254728",
+    "project_id": "eva-final-5a151",
+    "storage_bucket": "eva-final-5a151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230378254728:android:985fe3466fb3317de74a3d",
+        "android_client_info": {
+          "package_name": "com.manuel.evafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230378254728-99sbnbnpp7o94q3p983v23n4juoghla8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manuel.evafinal",
+            "certificate_hash": "320976eecebb9381ff9a0da02cfc266623183545"
+          }
+        },
+        {
+          "client_id": "230378254728-hugl6g73pvrfdbjkhkeu9hnogmj1ff6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0g2Q8e30v-6t65SOD1CBQMjnFFG9ngI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230378254728-9tta15for9ldemi9v39nob36tbvddjgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
